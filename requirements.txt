@@ -1,0 +1,16 @@
+# Data
+yfinance
+pyarrow
+
+# Core stack
+numpy
+pandas
+matplotlib
+
+# Statistics
+statsmodels
+scipy
+
+# Working environment
+ipykernel
+pytest
